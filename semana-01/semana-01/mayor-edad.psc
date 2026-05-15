@@ -9,5 +9,5 @@ Algoritmo MayorDeEdad
     SiNo
         Escribir "Es menor de edad"
     FinSi
-
+        Escribir "Fin del ejercicio de mayor de edad"
 FinAlgoritmo
