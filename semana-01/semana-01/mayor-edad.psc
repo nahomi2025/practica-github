@@ -1,5 +1,5 @@
 Algoritmo MayorDeEdad
-
+  // Programa para verificar edad
     Escribir "Ingrese su edad:"
     Leer edad
 
