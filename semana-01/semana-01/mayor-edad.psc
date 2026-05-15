@@ -1,5 +1,6 @@
 Algoritmo MayorDeEdad
   // Programa para verificar edad
+     Escribir "Validando si el usuario es mayor o menor de edad"
     Escribir "Ingrese su edad:"
     Leer edad
 
