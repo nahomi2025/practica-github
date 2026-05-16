@@ -15,3 +15,9 @@ Ingeniería en Sistemas
 
 ## Propósito de la práctica
 Aprender a utilizar GitHub, crear repositorios, realizar commits, manejar ramas y Pull Requests.
+
+## Mejora de la rama
+
+- Se creó la rama mejora-readme
+- Se practicó la edición del README en GitHub
+- Se realizaron cambios desde la rama            
